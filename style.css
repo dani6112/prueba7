@@ -1,0 +1,62 @@
+header
+{
+    background-color: rgb(6, 6, 131);
+    text-align: center;
+}
+footer
+{
+    background-color: rgb(6, 6, 108);
+    text-align: center;
+    height: 100px;
+    font-size: xx-large;
+}
+h1
+{
+    color: aquamarine;
+    font-size: 260%;
+    font-family: monospace;
+
+}
+p
+{
+    color: aquamarine;
+
+}
+.grillacontenedora6partes
+{
+    display: grid;
+    grid-template-columns: 50% 15% 35%;
+}
+div.rosa
+{
+    background-color: pink;
+
+}
+div.lila
+{
+    background-color: rgb(237, 37, 220);
+}
+div.lila:hover
+{
+    background-color: rgb(40, 237, 37);
+}
+div.naranja
+{
+    background-color: orange;
+}
+h2
+{
+    color: brown;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2:hover
+{
+    color: rgb(12, 12, 207);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    
